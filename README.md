@@ -66,4 +66,3 @@ You can set your description and customize cancel, rate and never buttons.
 
 # Licence
 MIT License
-Copyright (c) 2019 QReact
