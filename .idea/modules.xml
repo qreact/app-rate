@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/qreact-popup-review.iml" filepath="$PROJECT_DIR$/qreact-popup-review.iml" />
-      <module fileurl="file://$PROJECT_DIR$/qreactrate/qreactpopup.iml" filepath="$PROJECT_DIR$/qreactrate/qreactpopup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-rate.iml" filepath="$PROJECT_DIR$/app-rate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qreactrate/qreactrate.iml" filepath="$PROJECT_DIR$/qreactrate/qreactrate.iml" />
     </modules>
   </component>
 </project>
