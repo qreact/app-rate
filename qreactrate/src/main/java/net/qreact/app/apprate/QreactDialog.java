@@ -77,7 +77,7 @@ public final class QreactDialog extends AppCompatDialog {
         return this;
     }
 
-    public QreactDialog setrateButtonColor(Integer color) {
+    public QreactDialog setRateButtonColor(Integer color) {
         this.rateBtn.setTextColor(ContextCompat.getColor(mContext, color != null ? color : R.color.defaultColor));
         return this;
     }
@@ -89,19 +89,19 @@ public final class QreactDialog extends AppCompatDialog {
         return this;
     }
 
-    public RatingBar getRatingBar() {
+    RatingBar getRatingBar() {
         return ratingBar;
     }
 
-    public TextView getNeverBtn() {
+    TextView getNeverBtn() {
         return neverBtn;
     }
 
-    public TextView getCancelBtn() {
+    TextView getCancelBtn() {
         return cancelBtn;
     }
 
-    public TextView getRateBtn() {
+    TextView getRateBtn() {
         return rateBtn;
     }
 
