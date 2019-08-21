@@ -105,7 +105,7 @@ public final class QreactRate {
 
     private void onPlayStore() {
         if(mContext == null) return;
-        String packageName = BuildConfig.APPLICATION_ID;
+        String packageName = mContext.getPackageName();
 
         try {
             String marketPrefix = "market://details?id=";
