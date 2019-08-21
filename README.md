@@ -1,7 +1,7 @@
 # Qreact app rate
 QReact is an easy-to-use Survey Software for Customers, Employees and Research. You can redirect your users feedback to qreact and get detailed information about your app. For more information please see [the website](https://www.qreact.net)
 
-## Quick start
+# Usage
 
 ### Step 1. Add the JitPack repository to your build file
 
