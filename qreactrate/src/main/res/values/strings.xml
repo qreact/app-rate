@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">qreactpopup</string>
+  <string name="popupTitle">App title</string>
+  <string name="popupDescription">If you love our app, please take a moment to rate it</string>
+  <string name="popupRateBtn">RATE</string>
+  <string name="popupNeverBtn">NEVER</string>
+  <string name="popupNeverCancel">CANCEL</string>
+  <string name="iconDescription">rate icon</string>
+</resources>
