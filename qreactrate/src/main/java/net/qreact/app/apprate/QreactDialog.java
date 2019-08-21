@@ -1,17 +1,12 @@
-package net.qreact.app.qreactpopup;
+package net.qreact.app.apprate;
 
 import android.content.Context;
-import android.media.Rating;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.ImageView;
 import android.widget.RatingBar;
 import android.widget.TextView;
-
 import androidx.appcompat.app.AppCompatDialog;
 import androidx.core.content.ContextCompat;
-
-import java.util.LinkedHashMap;
 
 public final class QreactDialog extends AppCompatDialog {
 

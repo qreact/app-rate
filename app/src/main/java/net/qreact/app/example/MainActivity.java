@@ -3,8 +3,7 @@ package net.qreact.app.example;
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
-
-import net.qreact.app.qreactpopup.QreactRate;
+import net.qreact.app.apprate.QreactRate;
 
 public class MainActivity extends AppCompatActivity {
 

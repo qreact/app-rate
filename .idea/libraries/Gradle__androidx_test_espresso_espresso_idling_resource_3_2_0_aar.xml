@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.test.espresso:espresso-idling-resource:3.2.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b0c1ddc01cce633c34fe763ebef3807e/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b0c1ddc01cce633c34fe763ebef3807e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b4b9990369fe841cbf9f4245b51e2c10/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b4b9990369fe841cbf9f4245b51e2c10/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

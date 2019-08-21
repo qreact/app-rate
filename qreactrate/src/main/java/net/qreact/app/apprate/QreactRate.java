@@ -1,4 +1,4 @@
-package net.qreact.app.qreactpopup;
+package net.qreact.app.apprate;
 
 import android.content.Context;
 import android.content.Intent;
@@ -6,13 +6,8 @@ import android.content.SharedPreferences;
 import android.net.Uri;
 import android.util.Log;
 import android.view.View;
-import android.widget.ImageView;
 import android.widget.RatingBar;
-
 import androidx.annotation.NonNull;
-import androidx.core.content.ContextCompat;
-
-import java.util.Map;
 
 public final class QreactRate {
 
